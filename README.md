@@ -1,4 +1,4 @@
-# FlipkartWebScrapper
+# Practical-1
 
 
 If you want to fetch some other product review data other than "Samsung Galaxy S21" as I have done in this project,
